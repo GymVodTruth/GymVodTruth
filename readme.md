@@ -12,9 +12,9 @@ Myslím si, že naše škola by mohla zlepšit zacházení se studenty. Věřím
 Pokud máte zájem přispět k některému z mých projektů, neváhejte mě kontaktovat1.
 
 ## Kontakt
-Můžete mě kontaktovat na [email@example.com] pro otázky nebo další informace.
+Můžete mě kontaktovat na [gymvodtruth@gmail.com] pro otázky nebo další informace.
 
 Děkuji za návštěvu mého GitHub účtu!
 
 ## Licenční Podmínky
-Tento projekt je licencován pod MIT Licenzí - více informací najdete v souboru [LICENSE](LICENSE).
+Tento projekt je licencován pod MIT Licenzí - více informací najdete v souboru [LICENSE](License.md).
