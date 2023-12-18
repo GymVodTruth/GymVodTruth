@@ -1,5 +1,4 @@
-<div align="center" >
-# O mně
+## O mně
 
 Vítejte na mém GitHub účtu! Jsem GymVodTruth, a tento účet slouží jako domov pro projekty spojené s GymVodem. 
 
@@ -19,5 +18,4 @@ Děkuji za návštěvu mého GitHub účtu!
 
 ## Licenční Podmínky
 Tento projekt je licencován pod MIT Licenzí - více informací najdete v souboru [LICENSE](License.md).  
-</div>
 
