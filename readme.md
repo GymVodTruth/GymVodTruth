@@ -17,5 +17,5 @@ Můžete mě kontaktovat na [gymvodtruth@gmail.com] pro otázky nebo další inf
 Děkuji za návštěvu mého GitHub účtu!
 
 ## Licenční Podmínky
-Tento projekt je licencován pod MIT Licenzí - více informací najdete v souboru [LICENSE](License.md).  
+Tento projekt je licencován pod MIT Licenzí - více informací najdete v souboru [LICENSE](https://gymvodtruth.github.io/license/).  
 
